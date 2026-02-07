@@ -53,7 +53,7 @@ const Register = ({ onSwitch }) => {
             <User className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-500" />
             <input
               type="text"
-              className="w-full pl-12 pr-4 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500/30 transition-all text-base text-slate-100"
+              className="w-full pl-14 pr-4 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500/30 transition-all text-base text-slate-100"
               placeholder="Elige un nombre único"
               value={username}
               onChange={(e) => setUsername(e.target.value)}
@@ -68,7 +68,7 @@ const Register = ({ onSwitch }) => {
             <Lock className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-500" />
             <input
               type="password"
-              className="w-full pl-12 pr-4 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500/30 transition-all text-base text-slate-100"
+              className="w-full pl-14 pr-4 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500/30 transition-all text-base text-slate-100"
               placeholder="••••••••"
               value={password}
               onChange={(e) => setPassword(e.target.value)}

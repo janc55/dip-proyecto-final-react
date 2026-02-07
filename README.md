@@ -5,7 +5,7 @@
 ![Vite](https://img.shields.io/badge/Vite-7-purple?style=for-the-badge&logo=vite)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-**TaskMaster** es una aplicación de gestión de tareas (To-Do List) moderna y elegante, desarrollada como proyecto final para el Diplomado de React. La aplicación se integra con una API REST externa para gestionar la persistencia de datos y ofrece una experiencia de usuario fluida con un diseño "Premium" basado en Glassmorphism.
+**TaskMaster** es una aplicación de gestión de tareas (To-Do List) moderna y elegante, desarrollada como proyecto final para el modulo 3 del Diplomado en Fullstack de la Universidad Privada de Oruro. La aplicación se integra con una API REST externa para gestionar la persistencia de datos y ofrece una experiencia de usuario fluida con un diseño "Premium" basado en Glassmorphism.
 
 ## 🚀 Enlace del Proyecto
 Puedes ver la aplicación funcionando aquí:
@@ -80,7 +80,7 @@ Este proyecto consume la API proporcionada por Carlos Trigo:
 ---
 
 ## 👨‍💻 Autor
-**Diplomado en Desarrollo Web - Módulo 3: React**
+**Diplomante: José Alfredo Negretti Cortés**
 
 ---
 
